@@ -1,11 +1,11 @@
-# Pricingcycleengine
+# Pricing-cycle-engine
 
 
 Complete this assignment using gin framework.
 
 
-#Written in golang
-#json upload and gin gonic framework used multiple options
+# Written in golang
+# json upload and gin gonic framework used multiple options
 
 
 Assignment:-
