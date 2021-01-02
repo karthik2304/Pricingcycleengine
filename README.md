@@ -3,6 +3,11 @@
 
 Complete this assignment using gin framework.
 
+
+#Written in golang
+#json upload and gin gonic framework used multiple options
+
+
 Assignment:-
 
 The module to be developed is a pricing engine of a cycle.We can take cycle can be of high level components:-
@@ -21,10 +26,6 @@ The pricing module should be a command line executable, no graphical ui needed. 
 input as command line parameters or as a json text file, whatever is convenient to specify in. The
 inputs to the module will be the list of constituent parts, date of pricing and it will output the price
 of the entire cycle and also price for each high level component - frame, wheels etc.
-Modular code and well thought out class/object model is expected as well as Junit tests for main
+Modular code and well thought out class/object model is expected as well as Go tests for main
 classes.
 
-
-
-Written in golang
-json upload and gin gonic framework used multiple options
